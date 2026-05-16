@@ -1,4 +1,1 @@
-hi
-hello
-good morning
-git commit
+revert session
