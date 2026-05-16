@@ -1,5 +1,3 @@
 hi
 hello
 good morning
-
-i need to remove the lastest commit 
